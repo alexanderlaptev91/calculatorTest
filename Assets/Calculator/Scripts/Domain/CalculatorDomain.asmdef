@@ -1,0 +1,17 @@
+{
+    "name": "CalculatorDomain",
+    "rootNamespace": "",
+    "references": [
+        "GUID:29b1e22e8d09a4f78b87b5a177532f59",
+        "GUID:de38af393b2b647bd9830b7496e1343d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
